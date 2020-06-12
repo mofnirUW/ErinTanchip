@@ -1,0 +1,101 @@
+
+.circle-img {
+    border-radius: 50%;
+    border: 3px solid #fafafa;
+    width: 280px;
+    height: 280px;
+    margin: 130px 250px 5px 5px;
+}
+
+.circle-img1 {
+    border-radius: 50%;
+    border: 3px solid #fafafa;
+    width: 280px;
+    height: 280px;
+    margin: 0 auto;
+}
+
+.circle-img2 {
+    width: 60px;
+    height: 60px;
+}
+
+.circle-img3 {
+    width: 320px;
+    height: 140px;
+    position: absolute;
+    left: 50%;
+    margin-left: -175px;
+    margin-top: 30px;
+}
+
+.homeMokou1 {
+    width: 280px;
+    height: 280px;
+    margin: 600px 20px 0px -350px;
+}
+
+.card-image {
+    border-radius: 5px;
+    position: absolute;
+    padding: 25px 15px;
+    background-color: #fafafa;
+    height: 500px;
+    margin: 200px auto;
+    box-shadow: 0 2px 5px #ccc;
+    text-align: center;
+}
+
+.card-image1 {
+    border-radius: 50%;
+    border: 7px solid #fafafa;
+    width: 280px;
+    height: 280px;
+    margin-bottom: 30px;
+  }
+
+  .card-image2 {
+    border-radius: 5px;
+    position: absolute;
+    padding: 25px 15px;
+    background-color: #fafafa;
+    height: 500px;
+    margin: 200px auto 0px 600px;
+    box-shadow: 0 2px 5px #ccc;
+    text-align: center;
+}
+
+.icon-logo {
+    width: 25px;
+    height: 17px;
+    margin: 20px 5px 20px 150px;
+}
+
+.icon-logo1 {
+    width: 30px;
+    height: 30px;
+    margin: 0px 10px 20px 5px;
+}
+
+.container {
+    position: relative;
+    clear: both;
+}
+.span4 {
+    float: right;
+}
+
+.span8 {
+    position: relative;
+    float: left;
+}
+
+.languages {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
